@@ -191,7 +191,7 @@ kubectl get all
 
 ### **Delete an EKS Cluster**  
 ```bash
-eksctl delete cluster --name=ekswithavinash
+eksctl delete cluster --name=eks-cluster --region ap-south-1
 ```
 
 ---
